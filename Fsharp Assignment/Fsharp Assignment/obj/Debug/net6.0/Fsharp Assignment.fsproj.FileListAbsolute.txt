@@ -1,0 +1,54 @@
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.exe
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.deps.json
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.runtimeconfig.json
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.pdb
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.fsproj.AssemblyReference.cache
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.AssemblyInfoInputs.cache
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.AssemblyInfo.fs
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.fsproj.CoreCompileInputs.cache
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.fsproj.CopyComplete
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.dll
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.pdb
+C:\Users\noten\source\repos\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.genruntimeconfig.cache
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.fsproj.AssemblyReference.cache
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.AssemblyInfoInputs.cache
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.AssemblyInfo.fs
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.fsproj.CoreCompileInputs.cache
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.pdb
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.exe
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.deps.json
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.runtimeconfig.json
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\Fsharp Assignment.pdb
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.fsproj.CopyComplete
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 2\F#\Fsharp Assignment\Fsharp Assignment\obj\Debug\net6.0\Fsharp Assignment.genruntimeconfig.cache

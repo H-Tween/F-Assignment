@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NM4W8TZ2f3FwkFBQc3T2G5tHQVANsCLJbJoVmN8LFMGXd4E0Gk4musluQTNSIBCpB+QEtF671DKV7XhWZLKmgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spgaw\\Desktop\\EVERYTHING\\Uni Coursework\\Year 2\\F#\\Fsharp Assignment\\Fsharp Assignment\\Fsharp Assignment.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spgaw\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
